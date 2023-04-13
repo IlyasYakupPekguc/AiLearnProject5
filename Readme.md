@@ -18,7 +18,7 @@ Contents of the readme:
 First of all i'm a second grade student at Gazi University. I want to see what ai is about and learn more about the subject. This is my official Sixth project about ai. My first experience was within a compition named Teknofest. Agter gaining interest in AI i'm willing to learn more about this topic and i think the best way to do that is through projects. So this is my Fifth YouTube based project. While learning i also intend to get a fuller GitHub page. So that's a double win-win. After finishing the project i intend to continue the YouTube playlist if it apeals to me and my goals.
 
 2----------------------------------------- THE SUMMARY OF THE PROJECT:
-
+We're going to pass a news paper through and summerize the important parts from the text.
 
 
 3----------------------------------------- CODING NOTES:
@@ -34,3 +34,4 @@ First of all i'm a second grade student at Gazi University. I want to see what a
 
 
 6----------------------------------------- HIGHLIGHTS:
+-gui
