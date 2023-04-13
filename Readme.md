@@ -33,5 +33,9 @@ We're going to pass a news paper through and summerize the important parts from 
 
 
 
-6----------------------------------------- HIGHLIGHTS:
+6----------------------------------------- HIGHLIGHTS: (N-- stands for new learned info)
 -gui
+
+N--What the 'f' stands for in the string format. 
+After research the "f" stands for a better format of the string format that's better for readability etc.
+
